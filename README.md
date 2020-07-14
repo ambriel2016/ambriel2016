@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hi there. I'm Cristian 👋
 
-<!--
-**ambriel2016/ambriel2016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm a Fron-End Developer
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Fron-End Projects in React
+- 🌱 I’m currently learning Python, Data Structures & Algorithms, SQL
+- 💬 Ask me about HTML5 CSS3 and JavaScript
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I like to go to Disney and being a child again
+
+
+🏡 [website][website] **|** 
+🐦 [twitter][twitter] **|** 
+🎥 [twitch][twitch] **|** 
+📦 [npm][npm] **|** 
+👔 [linkedin][linkedin]
+
+
+[website]: https://ambriel2016.github.io/cristianreynosobetancourt.github.io/ 
+[twitter]: https://twitter.com/crb3505
+[twitch]: https://twitch.tv/ambriel2019
+[linkedin]: https://www.linkedin.com/in/cristianreynosobetancourt/
+[npm]: https://www.npmjs.com/~ambriel19
